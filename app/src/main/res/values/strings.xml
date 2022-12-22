@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application kotlin</string>
+    <string name="username">User name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
